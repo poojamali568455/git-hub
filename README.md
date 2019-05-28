@@ -1,2 +1,3 @@
-# git-hub
-This is for practice
+# maven-project
+
+Simple Maven Project
